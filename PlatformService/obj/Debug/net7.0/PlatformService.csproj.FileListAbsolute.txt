@@ -1,0 +1,160 @@
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\appsettings.Development.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\appsettings.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\PlatformService.exe
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\PlatformService.deps.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\PlatformService.runtimeconfig.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\PlatformService.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\PlatformService.pdb
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\AutoMapper.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Azure.Core.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Azure.Identity.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Humanizer.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.CodeDom.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Memory.Data.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.csproj.AssemblyReference.cache
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.AssemblyInfoInputs.cache
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.AssemblyInfo.cs
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.csproj.CoreCompileInputs.cache
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.PlatformService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.build.PlatformService.props
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PlatformService.props
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PlatformService.props
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets.pack.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets.build.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\staticwebassets.development.json
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\scopedcss\bundle\PlatformService.styles.css
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.csproj.CopyComplete
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\refint\PlatformService.dll
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.pdb
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\PlatformService.genruntimeconfig.cache
+E:\szkolenia\microservices\Les Jackson\PlatformService\obj\Debug\net7.0\ref\PlatformService.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.csproj.AssemblyReference.cache
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.GeneratedMSBuildEditorConfig.editorconfig
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.AssemblyInfoInputs.cache
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.AssemblyInfo.cs
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.csproj.CoreCompileInputs.cache
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.MvcApplicationPartsAssemblyInfo.cs
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.MvcApplicationPartsAssemblyInfo.cache
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\refint\PlatformService.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.pdb
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\appsettings.Development.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\appsettings.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\PlatformService.exe
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\PlatformService.deps.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\PlatformService.runtimeconfig.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\PlatformService.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\PlatformService.pdb
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\AutoMapper.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Azure.Core.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Azure.Identity.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Humanizer.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.CodeDom.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Memory.Data.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.PlatformService.Microsoft.AspNetCore.StaticWebAssets.props
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.build.PlatformService.props
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PlatformService.props
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PlatformService.props
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets.pack.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets.build.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\staticwebassets.development.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\scopedcss\bundle\PlatformService.styles.css
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.csproj.CopyComplete
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\PlatformService.genruntimeconfig.cache
+E:\szkolenia\microservices\CommandSystem\PlatformService\obj\Debug\net7.0\ref\PlatformService.dll
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\appsettings.Production.json
+E:\szkolenia\microservices\CommandSystem\PlatformService\bin\Debug\net7.0\RabbitMQ.Client.dll
